@@ -1,7 +1,7 @@
 (function(window, undefined) {
 	var ohm = window.ohm = window.ohm || {};
 	
-	var url = 'http://localhost/banner-master/banner/cross.js?',
+	var url = 'https://github.com/YutLee/advertising/blob/master/cross.js',
 		param = 'userId=123',
 		rand = Math.ceil(Math.random() * 10000000),
 		script = document.createElement('script');
